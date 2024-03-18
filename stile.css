@@ -6,3 +6,25 @@
     align-items: center;
     padding : 24px 0 ;
 }
+.cabecalho-imagem{
+    width: 10%;
+}
+.cabecalho-lista-imagem{
+    display:inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+}
+.escola imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(red, rgb(184, 13, 13) );
+    color:aliceblue ;
+    display: flax;
+    justify-content:center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
